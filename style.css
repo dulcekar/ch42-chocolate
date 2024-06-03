@@ -1,0 +1,24 @@
+
+/* CSS type Selector */
+body {
+    background-color:rgb(152, 122, 180);
+    color:purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button {
+    background-color:#3C889E;
+    color:#ECA091;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-stretch: expanded;
+}
+/* CSS type selector: pseudo class selector */
+button:hover {
+    background-color: #8053e0;
+}
+h1 {
+    color: #BFA9E3;
+    font-style: italic;
+}
